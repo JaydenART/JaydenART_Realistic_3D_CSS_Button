@@ -1,2 +1,2 @@
-# JaydenART - Realistic 3D CSS Button
+# JaydenART<sup>®</sup> - Realistic 3D CSS Button
 Full CSS
